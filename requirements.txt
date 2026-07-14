@@ -1,0 +1,13 @@
+jupyterlab
+ipython
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+imbalanced-learn
+seaborn
+networkx
+requests
+pillow
+tensorflow
